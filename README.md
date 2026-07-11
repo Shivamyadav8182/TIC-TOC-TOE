@@ -22,7 +22,7 @@ A responsive **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**. It f
 
 ## 🌐 Live Demo
 
-https://shivamyadav8182.github.io/TIC-TOC-TOE/
+https://tic-toc-ka5qhx7op-shivamyadav8182.vercel.app
 
 ## 💻 Installation
 
