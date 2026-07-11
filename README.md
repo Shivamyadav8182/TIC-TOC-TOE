@@ -16,8 +16,6 @@ A responsive **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**. It f
 * CSS3
 * JavaScript (ES6)
 
-## 📸 Preview
-
 > ## 📸 Screenshot
 
 ![Tic Tac Toe Preview](./Screenshot%202026-07-11%20164338.png)
