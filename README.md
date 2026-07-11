@@ -18,11 +18,13 @@ A responsive **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**. It f
 
 ## 📸 Preview
 
-> Add your project screenshot here.
+> ## 📸 Screenshot
+
+![Tic Tac Toe Preview](./Screenshot%202026-07-11%20164338.png)
 
 ## 🌐 Live Demo
 
-
+https://shivamyadav8182.github.io/TIC-TOC-TOE/
 
 ## 💻 Installation
 
